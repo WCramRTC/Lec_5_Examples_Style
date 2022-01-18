@@ -3,12 +3,17 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
-    
-    border: 1px solid black;
-    color: pink;
+
 }
 
+body {
+    background-color: #3DD1FF;
+}
+
+p {
+    color: rgb(255,159,60);
+}
 
 a {
-    color: red;
+    color: magenta;
 }
