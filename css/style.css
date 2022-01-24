@@ -13,7 +13,14 @@ body {
 p {
     color: rgb(255,159,60);
     font-weight: bold;
+
+
 }
+
+div > em {
+    color: red;
+}
+
 h1 {
     font-weight: normal;
 }
